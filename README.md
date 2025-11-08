@@ -1,5 +1,4 @@
-# THE UNKNOWN PRODUCT
-### MealMind — Smart Meal Planner
+# MealMind — Smart Meal Planner
 Ever stared at your kitchen and thought, “I don’t even know what to cook”? MealMind fixes that.
 
 It’s your personal meal assistant that suggests creative meals based on what is **already in your kitchen**
