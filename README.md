@@ -8,9 +8,9 @@ Just list your ingredients or snap a photo
 MealMind shows you recipes that fit your mood, health goals, and time.
 
 ### Features
-Suggests meals from ingredients you already have.
-Recognizes pantry items through photos.
-Adapts meals to your goals (fitness, weight loss, etc.).
+-Suggests meals from ingredients you already have.
+-Recognizes pantry items through photos.
+-Adapts meals to your goals (fitness, weight loss, etc.).
 Adjusts recipes to your mood. 
 Lazy day? spicy mood? we got you.
 Learns from your behavior to make smarter suggestions over time.
